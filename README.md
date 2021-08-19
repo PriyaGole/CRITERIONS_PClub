@@ -1,6 +1,6 @@
 # CRITERIONS_PClub
 
- The code implements optimization (through gradient descent) of different cost functions in a Linear and Polynomial Regression model.
+The code implements optimization (through gradient descent) of different cost functions in a Linear and Polynomial Regression model. The cost functions are further compared on how well the linear/polynomial function fits the data and how close the parameters get to the "desired parameters."
 
 ###### (The code for how I generated the data is "GeneratingData.ipynb")
 ###### (The theta values I am using here correspond to the dataset present in CSV files.)
