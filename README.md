@@ -19,7 +19,7 @@ Theta turned out to be [[14.6476] [4.06246221]]
 ![bb](https://user-images.githubusercontent.com/86489225/130104381-12d42ac7-4a01-42fa-b6df-4f104ee890b8.png)
 
 ##### Both the cost functions fit the data well.
-##### Comparing the theta values, we see that the absolute error function gives a slightly better theta value.
+##### Comparing the parameters, we see that the absolute error function gives a slightly better parameter values.
 
 ## Polynomial Regression Model:
 The desired value of theta is [[1] [1] [2]]
