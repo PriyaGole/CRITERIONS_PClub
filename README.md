@@ -5,7 +5,7 @@ The code implements optimization (through gradient descent) of different cost fu
 ###### (The code for how I generated the data is "GeneratingData.ipynb")
 ###### (The theta values I am using here correspond to the dataset present in CSV files.)
 
-## Linear Regression Model:
+## Linear Regression Model
 The desired value of theta is [[15] [4]]
 
 ### For cubed error function |x -  x̂|³: 
@@ -21,7 +21,7 @@ Theta turned out to be [[14.6476] [4.06246221]]
 ##### Both the cost functions fit the data well.
 ##### Comparing the parameters, we see that the absolute error function gives a slightly better parameter values.
 
-## Polynomial Regression Model:
+## Polynomial Regression Model
 The desired value of theta is [[1] [1] [2]]
 
 ### For "fourth-degree" error loss function |x -  x̂|⁴:
